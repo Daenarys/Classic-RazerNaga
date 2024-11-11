@@ -1,0 +1,9 @@
+## Interface: 110005
+## IconTexture: Interface\Addons\RazerNaga\Icons\RazerNagaMini
+## Title: Razer Naga XP
+## Notes: A movable experience/reputation bar
+## Author: Daenarys
+## Dependencies: RazerNaga
+## OptionalDeps: LibSharedMedia-3.0
+localization.xml
+xp.lua
